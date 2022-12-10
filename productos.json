@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Botas de esqui",
+        "price": 25000,
+        "category": "+$25000",
+        "image": "image/2.png",
+        "description": "Botas para esquiar, sobre nieve, de buena calidad",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "title": "Velador",
+        "price": 8000,
+        "category": "-$10000",
+        "image": "image/3.png",
+        "description": "Velador de pared (se atornilla a la pared)",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "title": "Maquina para escribir",
+        "price": 32000,
+        "category": "+$25000",
+        "image": "image/4.png",
+        "description": "Maquina para escribir, es funcional",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "title": "Coctelera",
+        "price": 3000,
+        "category": "-$10000",
+        "image": "image/5.png",
+        "description": "Coctelera de vidrio con tapa metalica",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "title": "Olla para fondiue",
+        "price": 17000,
+        "category": "+$10000 | -$25000",
+        "image": "image/6.png",
+        "description": "Olla para preparar fondiue con sus palillos incluidos",
+        "cantidad": 1
+    }
+]
