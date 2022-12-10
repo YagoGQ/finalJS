@@ -9,7 +9,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const {id, description, image, price, title} = prod
             divCards.innerHTML += `
             <div class="card" style="width= 18rem;">
-            <img src="${image}">
+                <img src="${image}" class="card-img-top" alt="no se puede visualizar esta imagen">
+                <div class="card-body">
+                    <h5>${title}</h5>
+                    <p class="card-text">${description}</p>
+                    <p>${price}</p>
+                    <button id=${id} class="btn btn-primary">AGREGAR</button>
+                </div>
+            </div>
             `
         })
     };
